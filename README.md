@@ -3,7 +3,7 @@
 **Título del TFM:**  
 **DEMANDA HIPOTECARIA EN ESPAÑA: IMPACTO DE VARIABLES ECONÓMICAS Y PREDICCIÓN MEDIANTE MODELOS MULTIVARIANTES**
 
-**Autores:** PILAR FERNÁNDEZ LÓPEZ, TOMÁS SANTIAGO ROSALES RIVERA, LUIS FERNÁNDEZ GUTIÉRREZ 
+**Autores:** PILAR FERNÁNDEZ LÓPEZ, TOMÁS SANTIAGO ROSALES RIVERA, LUIS FERNÁNDEZ GUTIÉRREZ <br>
 **Máster en Business Analytics – Universidad Europea de Madrid**  
 **Curso académico:** 2024–2025  
 **Director del Proyecto:** Carlos Nieto López Villalón
